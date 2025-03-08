@@ -142,7 +142,7 @@ fn main() {
 
     let matches = Command::new("Remote Governor")
         .version("0.1")
-        .author("Your Name")
+        .author("gen2-acidking")
         .about("Remote access, SCP, and compilation utility")
         .subcommand(
             Command::new("connect")

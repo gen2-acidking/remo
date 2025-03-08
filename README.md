@@ -8,7 +8,7 @@ Written in Rust for good karma.
 
 ## **Planned Features**
 - [x] Remote compilation support
-
+- [x] Remote qemu support
 ---
 
 ## **Installation**
